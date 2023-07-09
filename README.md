@@ -1,2 +1,1 @@
-Text1
-    Text2
+https://drsh3.github.io/rsschool-cv/
